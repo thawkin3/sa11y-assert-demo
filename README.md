@@ -24,3 +24,6 @@ In the project directory, you can run:
 - All sa11y packages: https://github.com/salesforce/sa11y
 - `@sa11y/assert` package: https://github.com/salesforce/sa11y/tree/master/packages/assert
 - Deque University axe 4.3 rules: https://dequeuniversity.com/rules/axe/4.3
+- Mocha: https://mochajs.org/
+- Chai: https://www.chaijs.com/guide/styles/
+- JSDOM: https://www.npmjs.com/package/jsdom
