@@ -1,0 +1,5 @@
+{
+  "recursive": true,
+  "spec": ["src/**/*.test.js"],
+  "watch-files": ["src/**/*.js"]
+}
